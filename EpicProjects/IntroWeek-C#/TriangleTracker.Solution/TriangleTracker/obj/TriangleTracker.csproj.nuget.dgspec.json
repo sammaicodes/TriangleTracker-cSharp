@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gsammai\\Desktop\\epicprojects\\introweek-c#\\TriangleTracker.Solution\\TriangleTracker\\TriangleTracker.csproj": {}
+    "C:\\Users\\gsammai\\Desktop\\epicprojects\\introweek-c#\\TriangleTracker.Solution\\triangletracker\\TriangleTracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gsammai\\Desktop\\epicprojects\\introweek-c#\\TriangleTracker.Solution\\TriangleTracker\\TriangleTracker.csproj": {
+    "C:\\Users\\gsammai\\Desktop\\epicprojects\\introweek-c#\\TriangleTracker.Solution\\triangletracker\\TriangleTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gsammai\\Desktop\\epicprojects\\introweek-c#\\TriangleTracker.Solution\\TriangleTracker\\TriangleTracker.csproj",
+        "projectUniqueName": "C:\\Users\\gsammai\\Desktop\\epicprojects\\introweek-c#\\TriangleTracker.Solution\\triangletracker\\TriangleTracker.csproj",
         "projectName": "TriangleTracker",
-        "projectPath": "C:\\Users\\gsammai\\Desktop\\epicprojects\\introweek-c#\\TriangleTracker.Solution\\TriangleTracker\\TriangleTracker.csproj",
+        "projectPath": "C:\\Users\\gsammai\\Desktop\\epicprojects\\introweek-c#\\TriangleTracker.Solution\\triangletracker\\TriangleTracker.csproj",
         "packagesPath": "C:\\Users\\gsammai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gsammai\\Desktop\\epicprojects\\introweek-c#\\TriangleTracker.Solution\\TriangleTracker\\obj\\",
+        "outputPath": "C:\\Users\\gsammai\\Desktop\\epicprojects\\introweek-c#\\TriangleTracker.Solution\\triangletracker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gsammai\\AppData\\Roaming\\NuGet\\NuGet.Config"

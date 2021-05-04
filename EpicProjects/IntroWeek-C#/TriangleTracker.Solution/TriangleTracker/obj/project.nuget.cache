@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bwMZcSMVcXOuXCOyqxQwp3n84ADgiMIfXSdIEs9cxuyYhOo6UTdsqF/lw2C4uHOqSIQzQLP703hnu7jFaeqhtA==",
+  "dgSpecHash": "hJktjcgT2etHXiqxFle5cO1cVEZ1DjQxSU4ClemQ7k6h4tuPIXHK6ubAHabBY+yAxlz2EunTBMWNCU4hyChHUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gsammai\\Desktop\\epicprojects\\introweek-c#\\TriangleTracker.Solution\\TriangleTracker\\TriangleTracker.csproj",
+  "projectFilePath": "C:\\Users\\gsammai\\Desktop\\epicprojects\\introweek-c#\\TriangleTracker.Solution\\triangletracker\\TriangleTracker.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
