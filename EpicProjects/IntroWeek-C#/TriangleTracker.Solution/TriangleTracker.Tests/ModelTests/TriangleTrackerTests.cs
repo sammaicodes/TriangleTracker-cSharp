@@ -11,7 +11,14 @@ namespace TriangleDetector.Tests
     {
       Triangle testCompareSides = new Triangle();
       string result = "This is not a triangle.";
-      Assert.AreEqual(result, testCompareSides.CompareSides(5,2,6));
+      Assert.AreEqual(result, testCompareSides.CompareSides(2,2,8));
+    }
+    [TestMethod]
+    public void CompareSides_IfSidesMakeEqualateralTriangle_thisIsAnEqualateraltraingle()
+    {
+      Triangle testCompareSides = new Triangle();
+      string result = "This is an equalateral triangle.";
+      Assert.AreEqual(result, testCompareSides.CompareSides(2,2,2));
     }
     // Test methods go here
   }
