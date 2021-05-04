@@ -1,0 +1,16 @@
+C:\Users\gsammai\Desktop\epicprojects\introweek-c#\TriangleTracker.Solution\TriangleTracker\bin\Debug\net5.0\TriangleTracker.exe
+C:\Users\gsammai\Desktop\epicprojects\introweek-c#\TriangleTracker.Solution\TriangleTracker\bin\Debug\net5.0\TriangleTracker.deps.json
+C:\Users\gsammai\Desktop\epicprojects\introweek-c#\TriangleTracker.Solution\TriangleTracker\bin\Debug\net5.0\TriangleTracker.runtimeconfig.json
+C:\Users\gsammai\Desktop\epicprojects\introweek-c#\TriangleTracker.Solution\TriangleTracker\bin\Debug\net5.0\TriangleTracker.runtimeconfig.dev.json
+C:\Users\gsammai\Desktop\epicprojects\introweek-c#\TriangleTracker.Solution\TriangleTracker\bin\Debug\net5.0\TriangleTracker.dll
+C:\Users\gsammai\Desktop\epicprojects\introweek-c#\TriangleTracker.Solution\TriangleTracker\bin\Debug\net5.0\ref\TriangleTracker.dll
+C:\Users\gsammai\Desktop\epicprojects\introweek-c#\TriangleTracker.Solution\TriangleTracker\bin\Debug\net5.0\TriangleTracker.pdb
+C:\Users\gsammai\Desktop\epicprojects\introweek-c#\TriangleTracker.Solution\TriangleTracker\obj\Debug\net5.0\TriangleTracker.csprojAssemblyReference.cache
+C:\Users\gsammai\Desktop\epicprojects\introweek-c#\TriangleTracker.Solution\TriangleTracker\obj\Debug\net5.0\TriangleTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsammai\Desktop\epicprojects\introweek-c#\TriangleTracker.Solution\TriangleTracker\obj\Debug\net5.0\TriangleTracker.AssemblyInfoInputs.cache
+C:\Users\gsammai\Desktop\epicprojects\introweek-c#\TriangleTracker.Solution\TriangleTracker\obj\Debug\net5.0\TriangleTracker.AssemblyInfo.cs
+C:\Users\gsammai\Desktop\epicprojects\introweek-c#\TriangleTracker.Solution\TriangleTracker\obj\Debug\net5.0\TriangleTracker.csproj.CoreCompileInputs.cache
+C:\Users\gsammai\Desktop\epicprojects\introweek-c#\TriangleTracker.Solution\TriangleTracker\obj\Debug\net5.0\TriangleTracker.dll
+C:\Users\gsammai\Desktop\epicprojects\introweek-c#\TriangleTracker.Solution\TriangleTracker\obj\Debug\net5.0\ref\TriangleTracker.dll
+C:\Users\gsammai\Desktop\epicprojects\introweek-c#\TriangleTracker.Solution\TriangleTracker\obj\Debug\net5.0\TriangleTracker.pdb
+C:\Users\gsammai\Desktop\epicprojects\introweek-c#\TriangleTracker.Solution\TriangleTracker\obj\Debug\net5.0\TriangleTracker.genruntimeconfig.cache
